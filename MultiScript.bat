@@ -1,0 +1,1 @@
+"C:\Program Files\VanDyke Software\SecureCRT\SecureCRT.exe" /SCRIPT "N:\Share\Serv\LocAndExFTR\Local\Global Wifi\Global Wifi Team\Team folders\Raz\Multi Script\MultiScript.py" /T /SSH2 10.0.80.80 /L Razl /PASSWORD Motorola3691 
